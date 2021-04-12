@@ -1,15 +1,15 @@
 ﻿# DesafioTecnicoDATUM
 
-##Inicialização projeto
+## Inicialização projeto
 
-  A API2 depende de informações da API1 então necessário inicializar as duas API em conjuto
+  #### A API2 depende de informações da API1 então necessário inicializar as duas API em conjuto
 
-##Configuração
+## Configuração
 
-Com a solution aberta click botão direito na solution vá até "Definir projetos de Inicialização..."
+#### Com a solution aberta click botão direito na solution vá até "Definir projetos de Inicialização..."
 
 
-Em Projetos de Inicialização 
-click variaos projetos de inicialização "1"
-Iniciar em cada projeto "2"
-Ok "3"
+#### Em Projetos de Inicialização 
+#### click variaos projetos de inicialização "1"
+#### Iniciar em cada projeto "2"
+#### Ok "3"
